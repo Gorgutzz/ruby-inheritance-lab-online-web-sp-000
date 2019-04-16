@@ -1,8 +1,7 @@
 class Student < User
-  @knowledge = []
 
   def intiliaze
-    @knowledge = knowledge
+    @knowledge = []
   end
 
   def learn(string)
