@@ -6,3 +6,5 @@ class User
   def last_name
     "last name"
   end
+
+end
